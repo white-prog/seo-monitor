@@ -4,7 +4,7 @@ A Python-based SEO monitoring system that tracks keyword rankings, analyzes meta
 
 ## inputs
 
-**websites and keywords to analyze in config.json**
+**input websites and keywords to analyze in config.json**
 
 ## Setup
 
