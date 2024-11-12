@@ -29,6 +29,6 @@ source seo-env/bin/activate
 
 **Add results to the result directory upon execution on a local machine**
 
- **seo_monitor.log**
- **seo_report_time.txt**
- **seo_results_time.csv**
+ **seo_monitor.log*
+ **seo_report_time.txt*
+ **seo_results_time.csv*
