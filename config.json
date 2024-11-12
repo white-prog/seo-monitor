@@ -1,0 +1,11 @@
+{
+    "websites": [
+        "https://www.geeksforgeeks.org",
+        "https://www.python.org"
+    ],
+    "keywords": [
+        "web development",
+        "python tutorials"
+    ],
+    "check_interval": 3600
+}

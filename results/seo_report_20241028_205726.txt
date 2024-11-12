@@ -1,0 +1,33 @@
+SEO Monitoring Summary Report
+Generated at: 20241028_205726
+
+Keyword Rankings:
+
+https://www.geeksforgeeks.org:
+- web development: Position 1.0
+- python tutorials: Position 4.0
+
+https://www.python.org:
+- python tutorials: Position 7.0
+
+Performance Metrics:
+
+https://www.geeksforgeeks.org:
+- Response Time: 0.42 seconds
+- Status Code: 200.0
+
+https://www.python.org:
+- Response Time: 0.28 seconds
+- Status Code: 200.0
+
+Meta Tags Analysis:
+
+https://www.geeksforgeeks.org:
+- Title: GeeksforGeeks | A computer science portal for geeks
+- H1 Tags: 0.0
+- Missing Alt Tags: 0.0
+
+https://www.python.org:
+- Title: Welcome to Python.org
+- H1 Tags: 6.0
+- Missing Alt Tags: 0.0

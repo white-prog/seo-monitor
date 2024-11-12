@@ -1,0 +1,9 @@
+website,keyword,position,timestamp,title,meta_description,h1_count,h2_count,img_alt_missing,url,status_code,response_time,content_length
+https://www.geeksforgeeks.org,web development,1.0,2024-10-28 20:57:21.532190,,,,,,,,,
+https://www.geeksforgeeks.org,python tutorials,4.0,2024-10-28 20:57:23.749749,,,,,,,,,
+https://www.python.org,web development,,2024-10-28 20:57:24.904991,,,,,,,,,
+https://www.python.org,python tutorials,7.0,2024-10-28 20:57:26.104665,,,,,,,,,
+,,,2024-10-28 20:57:26.572878,GeeksforGeeks | A computer science portal for geeks,"A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",0.0,13.0,0.0,https://www.geeksforgeeks.org,,,
+,,,2024-10-28 20:57:26.523343,,,,,,https://www.geeksforgeeks.org,200.0,0.41867804527282715,346324.0
+,,,2024-10-28 20:57:26.855886,Welcome to Python.org,The official home of the Python Programming Language,6.0,9.0,0.0,https://www.python.org,,,
+,,,2024-10-28 20:57:26.855886,,,,,,https://www.python.org,200.0,0.2830080986022949,51439.0
